@@ -31,7 +31,7 @@ print(tambah(4, 5))
 #Contoh Deklarasi Object (Class)
 class Sapi(object):
   def moo(self):
-    print("moooooo")
+    print("moooooo","Mooooooooooosccccccooyyyyyy")
 
 #Memanggil Method
 cow = Sapi()
